@@ -1,0 +1,16 @@
+.form-button {
+  color: white;
+  background-color: dodgerblue;
+  margin-left: 3px;
+}
+
+.delete-button {
+  color: white;
+  background-color: red;
+  margin-left: 2px;
+  margin-top: 3px;
+}
+
+.Input-list {
+  justify-content: start;
+}
